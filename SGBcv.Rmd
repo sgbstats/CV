@@ -1,0 +1,58 @@
+---
+name: Sebastian
+surname: Bate
+position: "Medical Statistician"
+phone: 07985357150
+www: mariecurie.com
+email: "sebastiangbate@gmail.com"
+twitter: sebastianbate
+# github: mariecurie
+linkedin: sebastianbate
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv:
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year,~Grade, ~ Institution, 
+  "MMath Mathematics and Statisitcs", "2015-19", "First Class (Hons.)", "University of Manchester"
+) %>% 
+  detailed_entries(Grade,Year,Degree,  Institution)
+```
+
+<!-- # Nobel Prizes -->
+
+<!-- ```{r} -->
+<!-- tribble( -->
+<!--   ~Year, ~Type, ~Desc, -->
+<!--   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel", -->
+<!--   1911, "Chemistry", "Awarded for the discovery of radium and polonium" -->
+<!-- ) %>%  -->
+<!--   brief_entries( -->
+<!--     glue::glue("Nobel Prize in {Type}"), -->
+<!--     Year,  -->
+<!--     Desc -->
+<!--   ) -->
+<!-- ``` -->
+
+<!-- # Publications -->
+
+<!-- ```{r} -->
+<!-- library(dplyr) -->
+<!-- knitr::write_bib(c("vitae", "tibble"), "packages.bib") -->
+
+<!-- bibliography_entries("packages.bib") %>% -->
+<!--   arrange(desc(author$family), issued) -->
+<!-- ``` -->
+
