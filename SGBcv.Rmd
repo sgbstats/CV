@@ -3,10 +3,10 @@ name: Sebastian
 surname: Bate
 position: "Medical Statistician"
 phone: 07985357150
-www: mariecurie.com
+#www: 
 email: "sebastiangbate@gmail.com"
 twitter: sebastianbate
-# github: mariecurie
+github: sgbstats
 linkedin: sebastianbate
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
@@ -25,8 +25,11 @@ library(tibble)
 ```{r}
 tribble(
   ~Org, ~Role,~Time,  ~Responsibilities,
-  "Manchester University NHS Foundation Trust", "Junior Medical Statisitican", "Mar 2021-", list()
-)
+  "Manchester University NHS Foundation Trust", "Junior Medical Statisitican", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.","I have been responsible for reviewing the design, statistical accuracy and overall viability of all trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians","I have multiple collaborations with clinicians across the whole of MFT and The University of Manchester, and other trusts, including Renal, Critical Care, Gastroenterology, Cardiovascular, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.", "I am the resident statistician for Respiritory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context", "I have given multiple talks on statistics for critical appraisal accross the trust and I am the subject matter expert for meta-analysis.", "I have provided informal mentoring to junior team members", "I am an expert in the use R for clinical research including the Tidyverse"),
+  
+  "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations, and mock TFLs across multiple studies.", "I programmed TFLs for use in CSRs across multiple studies.", "I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands)")
+) %>% 
+  detailed_entries(what=Role, where = Time, with = Org, why=Responsibilities)
 
 ```
 
@@ -38,31 +41,24 @@ tribble(
   ~ Degree, ~ Year,~Grade, ~ Institution, 
   "MMath Mathematics and Statisitcs", "2015-19", "First Class (Hons.)", "University of Manchester"
 ) %>% 
-  detailed_entries(what=Grade,when=Year,with=Degree,  where=Institution)
+  detailed_entries(why=Grade,where=Year,with=Degree,  what=Institution)
 ```
 
-<!-- # Nobel Prizes -->
 
-<!-- ```{r} -->
-<!-- tribble( -->
-<!--   ~Year, ~Type, ~Desc, -->
-<!--   1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel", -->
-<!--   1911, "Chemistry", "Awarded for the discovery of radium and polonium" -->
-<!-- ) %>%  -->
-<!--   brief_entries( -->
-<!--     glue::glue("Nobel Prize in {Type}"), -->
-<!--     Year,  -->
-<!--     Desc -->
-<!--   ) -->
-<!-- ``` -->
+# Publications
 
-<!-- # Publications -->
+```{r}
+library(dplyr)
+#knitr::write_bib("bib.bib")
 
-<!-- ```{r} -->
-<!-- library(dplyr) -->
-<!-- knitr::write_bib(c("vitae", "tibble"), "packages.bib") -->
+bibliography_entries("bib.bib") %>%
+  arrange(desc(issued))
+```
+# Personal
 
-<!-- bibliography_entries("packages.bib") %>% -->
-<!--   arrange(desc(author$family), issued) -->
-<!-- ``` -->
-
+```{r}
+tribble(~note,
+  list("I have run a 3:28:52 marathon",
+       "This CV was written in RMarkdown using {vitae}")) %>% 
+  detailed_entries(why=note)
+```
