@@ -10,7 +10,9 @@
 
 ## Experience
 
-**Manchester University NHS Foundation Trust**, *Junior Medical Statistician* (Mar 2021-) 
+**Manchester University NHS Foundation Trust**
+
+*Junior Medical Statistician* (Mar 2021-) 
 
 * I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
 
@@ -26,7 +28,9 @@
 
 * I have provided informal mentoring to junior team members.
 
-**IQVIA**, *Statistician* (Sep 2019-Feb 2021)
+**IQVIA**
+
+*Statistician* (Sep 2019-Feb 2021)
 
 * I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.
 
@@ -42,13 +46,15 @@
 
 ## Education
 
-**University of Manchester**, *MMath Mathematics and Statistics* (2015-19)
+**University of Manchester**
+
+*MMath Mathematics and Statistics* (2015-19)
 
 * First Class (Hons.)
 
 ## Publications
 
-1. Doyle, R., Bate, S., Devenny, J., Agwaonye, S., Hastings, M., Wych, J., . . . Vasant, D. H. (2021). Evaluating the impact of an enhanced triage process on the performance and diagnostic yield of oesophageal physiology studies post COVID-19. BMJ Open Gastro, *8* (e000810). [https://doi.org/10.1136/bmjgast-2021-000810](https://doi.org/10.1136/bmjgast-2021-000810) 
+1. Doyle, R., Bate, S., Devenny, J., Agwaonye, S., Hastings, M., Wych, J., . . . Vasant, D. H. (2021). Evaluating the impact of an enhanced triage process on the performance and diagnostic yield of oesophageal physiology studies post COVID-19. BMJ Open Gastro, **8** (e000810). [https://doi.org/10.1136/bmjgast-2021-000810](https://doi.org/10.1136/bmjgast-2021-000810) 
 
 ## Grants Awarded
 
@@ -71,5 +77,6 @@
 
 
 # Personal
+
 * I have run a 3:28:52 marathon
-* This CV was written in RMarkdown using {vitae}
+
