@@ -67,7 +67,7 @@
 * Role: Junior Statistician
 
 
-# Languages & Certifications
+## Languages & Certifications
 
 * R, inc. Tidyverse (Expert)
 * SPSS (Proficient)
@@ -76,7 +76,7 @@
 * NIHR Good Clinical Practice
 
 
-# Personal
+## Personal
 
 * I have run a 3:28:52 marathon
 
