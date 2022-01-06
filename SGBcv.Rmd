@@ -12,6 +12,8 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
     page_total: true
+csl: bmj.csl
+    
 ---
 
 ```{r setup, include=FALSE}
