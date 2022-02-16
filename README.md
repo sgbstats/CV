@@ -20,7 +20,7 @@
 
 * I have been responsible for reviewing the design, statistical accuracy and overall viability of all trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
 
-* I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including Renal, Critical Care, Gastroenterology, Cardiovascular, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
+* I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
 
 * I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.
 
@@ -55,16 +55,6 @@
 ## Publications
 
 1. Doyle, R., **Bate, S.**, Devenny, J., Agwaonye, S., Hastings, M., Wych, J., . . . Vasant, D. H. (2021). Evaluating the impact of an enhanced triage process on the performance and diagnostic yield of oesophageal physiology studies post COVID-19. BMJ Open Gastro, **8** (e000810). [https://doi.org/10.1136/bmjgast-2021-000810](https://doi.org/10.1136/bmjgast-2021-000810) 
-
-## Grants Awarded
-
-**Wellcome Trust Institutional Translational Partnership Award Access to Expertise**
-
-*Prediction Tools to personalise medicine in ANCA-associated vasculitis* (University of Manchester, 2021)
- 
-* Team: Brix, S et al.
-* Award: £4,760
-* Role: Junior Statistician
 
 
 ## Languages & Certifications
