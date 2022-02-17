@@ -52,7 +52,7 @@
 * SQL (Moderate)
 * NIHR Good Clinical Practice
 
-# Areas of interest
+## Areas of interest
 * Prognostic modeling
 * Meta-analysis
 
