@@ -43,4 +43,4 @@ vignettes/*.pdf
 *.aux
 *.out
 
-readme.html
+*.html

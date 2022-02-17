@@ -28,9 +28,9 @@ library(tibble)
 ```{r}
 tribble(
   ~Org, ~Role,~Time,  ~Responsibilities,
-  "Manchester University NHS Foundation Trust", "Junior Medical Statistician", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.","I have been responsible for reviewing the design, statistical accuracy and overall viability of all trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.", "I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.", "I have given multiple talks on statistics for critical appraisal across the trust and I am the subject matter expert for meta-analysis.", "I have provided informal mentoring to junior team members."),
+  "Manchester University NHS Foundation Trust", "Junior Medical Statistician", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.","I have been responsible for reviewing the design, statistical accuracy and overall viability of trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.", "I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.", "I have given multiple talks on statistics for critical appraisal across the trust.", "I have provided informal mentoring to a junior team member.", "I have written teaching materials for improving statistical literacy among clincians."),
   
-  "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations, and mock TFLs across multiple studies.", "I programmed TFLs for use in CSRs across multiple studies.", "I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).")
+  "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations and mock TFLs across multiple studies.", "I programmed TFLs for use in CSRs across multiple studies.", "I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).")
 ) %>% 
   detailed_entries(what=Role, where = Time, with = Org, why=Responsibilities)
 
@@ -41,18 +41,16 @@ tribble(
 ```{r}
 
 tribble(
-  ~ Degree, ~ Year,~Grade, ~ Institution, 
-  "MMath Mathematics and Statisitcs", "2015-19", "First Class (Hons.)", "University of Manchester"
+  ~ Degree, ~ Year,~ Institution, 
+  "MMath Mathematics and Statisitcs, First Class (Hons.)", "2015-19", "University of Manchester"
 ) %>% 
-  detailed_entries(why=Grade,where=Year,with=Degree,  what=Institution)
+  detailed_entries(where=Year,what=Degree,  with=Institution)
 ```
 
 
 # Publications
 
 ```{r}
-
-
 bibliography_entries("bib.bib") %>%
   arrange(desc(issued))
 ```
@@ -76,6 +74,9 @@ bibliography_entries("bib.bib") %>%
 * SQL (Moderate)
 * NIHR Good Clinical Practice
 
+# Areas of interest
+* Prognostic modeling
+* Meta-analysis
 
 # Personal
 * I have run a 3:28:52 marathon

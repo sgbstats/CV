@@ -1,6 +1,5 @@
 # Sebastian Bate
 ## Medical Statistician
-* Phone: 07985357150
 * Email: [sebastiangbate@gmail.com](mailto:sebastiangbate@gmail.com)
 * Twitter: [\@sebastianbate](https://twitter.com/SebastianBate)
 * Github: [sgbstats](https://github.com/sgbstats)
@@ -15,42 +14,30 @@
 *Junior Medical Statistician* (Mar 2021-) 
 
 * I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
-
 * I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
-
-* I have been responsible for reviewing the design, statistical accuracy and overall viability of all trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
-
-* I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
-
+* I have been responsible for reviewing the design, statistical accuracy and overall viability of trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
+* I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
 * I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.
-
-* I have given multiple talks on statistics for critical appraisal across the trust and I am the subject matter expert for meta-analysis.
-
-* I have provided informal mentoring to junior team members.
+* I have given multiple talks on statistics for critical appraisal across the trust.
+* I have provided informal mentoring to a junior team member.
+* I have written teaching materials for improving statistical literacy among clincians."
 
 **IQVIA**
 
 *Statistician* (Sep 2019-Feb 2021)
 
 * I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.
-
 * I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.
-
 * I assisted in developing study analysis plans, including sample size calculations, and mock TFLs across multiple studies.
-
 * I programmed TFLs for use in CSRs across multiple studies.
-
 * I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.
-
 * I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).
 
 ## Education
 
 **University of Manchester**
 
-*MMath Mathematics and Statistics* (2015-19)
-
-* First Class (Hons.)
+**MMath Mathematics and Statistics**, First Class (Hons.) (2015-19)
 
 ## Publications
 
@@ -65,6 +52,9 @@
 * SQL (Moderate)
 * NIHR Good Clinical Practice
 
+# Areas of interest
+* Prognostic modeling
+* Meta-analysis
 
 ## Personal
 
