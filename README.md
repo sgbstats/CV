@@ -18,7 +18,7 @@
 * I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
 * I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
 * I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.
-* I have given multiple talks on statistics for critical appraisal across The Trust.
+* I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Academic Foundation Progam, junior doctors and level 7+ clinical practitioners.
 * I have provided informal mentoring to a junior team member.
 * I have written teaching materials for improving statistical literacy among clinicians.
 
