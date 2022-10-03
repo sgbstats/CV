@@ -58,6 +58,6 @@
 
 ## Personal
 
-* I have run a 3:19:42 marathon
+* I have run a 3:03:45 marathon
 * I have an Erdos number of 8
 
