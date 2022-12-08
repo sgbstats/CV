@@ -48,7 +48,7 @@ tribble(
 ```
 
 
-# Publications
+# Peer Reviewed Publications
 
 ```{r}
 bibliography_entries("bib.bib") %>%
