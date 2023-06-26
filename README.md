@@ -16,12 +16,13 @@
 * I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
 * I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
 * I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
-* I have presented my research at conferences both to technical and clinical audiences [NHS R Community Conference, 2022; Translation Manchester, 2022]
+* I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)].
 * I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
 * I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.
-* I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Academic Foundation Progam, junior doctors and level 7+ clinical practitioners.
+* I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.
 * I have provided informal mentoring to a junior team member.
 * I have written teaching materials for improving statistical literacy among clinicians.
+* I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University
 
 **IQVIA**
 
