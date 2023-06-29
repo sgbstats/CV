@@ -40,12 +40,12 @@
 **University of Manchester**, **MMath Mathematics and Statistics**, First Class (Hons.) (2015-19)
 
 ## Peer Reviewed Publications
-1. **Bate, S.** and Brix, S.R. (2023). From Prediction Tools to Precision Medicine in Antineutrophil Cytoplasmic Antibody–Associated Vasculitis. The Journal of Rheumatology. [10.3899/jrheum.230115](10.3899/jrheum.230115)
-1. Vasant D.H., Nigam G.B., **Bate S**., et al. The prevalence and burden of rome IV faecal incontinence in ulcerative colitis: A cross‑sectional
-study. Alimentary Pharmacology & Therapeutics Published Online First: 2023. [doi:/10.1111/apt.17502](doi:/10.1111/apt.17502)
-1. Stokes, V., Goh, K. Y., Whiting, G., **Bate, S.**, Greenlee, H., Wilson, A., & Parker, A. J. (2022). External validation of a prediction model for CPAP failure in COVID-19 patients with severe pneumonitis. Critical Care, 26(1), 293. https://doi.org/10.1186/s13054-022-04144-4 
-2. Floyd, L., **Bate, S.**, Kafagi, A., ... Brix, S. R. (2022) Risk stratification to predict renal survival in anti‑GBM disease. Journal of the American Society of Nephrology; ASN.2022050581.  [https://doi.org/10.1681/ASN.2022050581](https://doi.org/10.1681/ASN.2022050581)
-3. Doyle, R., **Bate, S.**, Devenny, J., Agwaonye, S., Hastings, M., Wych, J., . . . Vasant, D. H. (2021). Evaluating the impact of an enhanced triage process on the performance and diagnostic yield of oesophageal physiology studies post COVID-19. BMJ Open Gastro, **8** (e000810). [https://doi.org/10.1136/bmjgast-2021-000810](https://doi.org/10.1136/bmjgast-2021-000810) 
+1. **Bate, S.** and Brix, S.R. (2023) From Prediction Tools to Precision Medicine in Antineutrophil Cytoplasmic Antibody–Associated Vasculitis. The Journal of Rheumatology **50**:583–5.. [10.3899/jrheum.230115](https://doi.org/10.3899/jrheum.230115)
+1. Vasant D.H., Nigam G.B., **Bate S.**, et al. (2023) The prevalence and burden of Rome IV faecal incontinence in ulcerative colitis: A cross‑sectional study. Alimentary Pharmacology & Therapeutics ;**58**:26–34.[10.1111/apt.1750](https://doi.org/10.1111/apt.175)
+3. Ragy O., **Bate S.**, Bukhari S., et al. (2023) PLA2R antibody does not outperform conventional clinical markers in predicting outcomes in membranous nephropathy. Kidney International Reports Published Online First: 2023. [10.1016/j.ekir.2023.05.019](https://doi.org/10.1016/j.ekir.2023.05.019)
+1. Stokes, V., Goh, K.Y., Whiting, G., **Bate, S.**, Greenlee, H., Wilson, A., & Parker, A.J. (2022). External validation of a prediction model for CPAP failure in COVID-19 patients with severe pneumonitis. Critical Care, **26**(1), 293. [10.1186/s13054-022-04144-4](https://doi.org/10.1186/s13054-022-04144-4) 
+2. Floyd, L., **Bate, S.**, Kafagi, A., ... Brix, S. R. (2022) Risk stratification to predict renal survival in anti‑GBM disease. Journal of the American Society of Nephrology; ASN.2022050581.  [10.1681/ASN.2022050581](https://doi.org/0.1681/ASN.2022050581)
+3. Doyle, R., **Bate, S.**, Devenny, J., Agwaonye, S., Hastings, M., Wych, J., . . . Vasant, D. H. (2021). Evaluating the impact of an enhanced triage process on the performance and diagnostic yield of oesophageal physiology studies post COVID-19. BMJ Open Gastro, **8** (e000810). [10.1136/bmjgast-2021-000810](https://doi.org/10.1136/bmjgast-2021-000810) 
 
 
 ## Languages & Certifications
