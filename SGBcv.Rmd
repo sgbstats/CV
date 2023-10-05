@@ -68,6 +68,6 @@ bibliography_entries("bib.bib") %>%
 
 # Personal
 * I have run a 3:03:45 marathon
-* I have an Erdos number of 8
+* I have an Erdos number of 6
 * This CV was written in RMarkdown using *{vitae}*
 
