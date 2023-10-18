@@ -39,6 +39,7 @@
 **University of Manchester**, **MMath Mathematics and Statistics**, First Class (Hons.)
 
 ## Peer Reviewed Publications
+
 1. **Bate, S.** and Brix, S.R. (2023) From Prediction Tools to Precision Medicine in Antineutrophil Cytoplasmic Antibody–Associated Vasculitis. The Journal of Rheumatology **50**:583–5.. [10.3899/jrheum.230115](https://doi.org/10.3899/jrheum.230115)
 1. Vasant D.H., Nigam G.B., **Bate S.**, et al. (2023) The prevalence and burden of Rome IV faecal incontinence in ulcerative colitis: A cross‑sectional study. Alimentary Pharmacology & Therapeutics ;**58**:26–34.[10.1111/apt.1750](https://doi.org/10.1111/apt.1750)
 3. Ragy O., **Bate S.**, Bukhari S., et al. (2023) PLA2R antibody does not outperform conventional clinical markers in predicting outcomes in membranous nephropathy. Kidney International Reports 2023;**8**:1605–15. [10.1016/j.ekir.2023.05.019](https://doi.org/10.1016/j.ekir.2023.05.019)
