@@ -1,0 +1,19 @@
+---
+title: "Curriculum Vitae"
+author: "Mr Sebastian Bate, MMath"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: word_document
+csl: jama.csl
+bibliography: bib.bib
+
+---
+
+
+  @Batejrheum.230115
+  @RAGY20231605
+  @FI
+  @oremule2023mobile
+  @CSOM
+  @RN259
+  @RN246
+  @RN106

@@ -1,0 +1,101 @@
+---
+title: "Curriculum Vitae"
+author: "Mr Sebastian Bate, MMath"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: pdf_document
+csl: jama.csl
+bibliography: bib.bib
+header-includes:
+    - \usepackage{sectsty}
+    - \allsectionsfont{\color{black}}
+---
+
+# Section A: Personal Information
+
+**Full Name**: Sebastian George Bate
+
+**Education**
+
+- 2015-2019	University of Manchester, School of Mathematics
+- 2008-2015	Howard of Effingham School, Effingham, Surrey 
+
+**Qualifications**
+
+- 2019	MMath Mathematics and Statistics First Class (Hons.)
+- 2015	A-levels: Mathematics (grade A*), Further Mathematics (grade A), Physics (grade A) 
+- 2014	AS-Levels: Chemistry (grade B)
+- 2013	GCSEs: 14 GCSE passes (grade A*- B)
+
+**Current Appointments** 
+
+- Mar 2021- 	**Junior Medical Statistician**	Research and Innovation, Manchester University NHS Foundation Trust (MFT)
+
+- Mar 2021- 	**Hon. Research Assistant** Centre for Biostatistics, The University of Manchester; Manchester Academic Health Science Centre
+
+**Previous Appointments**
+
+- Sep 2019 – Feb 2021	**Statistician**	IQVIA 
+
+---
+
+# Section B: Research Contributions
+
+## Peer Reviewed Publications
+
+<div id="refs"></div>
+
+## Other Publications
+1.	Bate, S. Stokes, V., … Wilson, A. (2023) External validation of prognostic models in critical care: a cautionary tale from covid-19 pneumonitis [Rapid fire talk; Poster; e-Poster]. NIHR Statistics Group Conference 2023, Sheffield, UK. Winner of best e-Poster.
+2.	Bate, S. & Brix S. R. (2022). Validating time-to-event clinical prediction models: a case study in ANCA-associated glomerulonephritis. [Presentation]. NHS R Community Conference 2022, Birmingham, UK.
+3.	Bate, S. & Brix S. R. (2022). Modification of the Renal Risk Score in ANCA Associated Glomerulonephritis improves prediction further. [Poster]. Translation Manchester Conference, Manchester, UK. Winner of ‘People’s choice’ award.
+
+## Grants Awarded
+1.	NIHR Health Technology Assessment 2023, ICS-RECODE: Predictors of treatment REsponse to inhaled corticosteroids (ICS) in COPD: randomised COntrolled trials individual participant Data re-Evaluation. NIHR152516, Mathioudakis, et al. £ 200,929.34. Role: Co-Applicant and lead statistician; Manchester University NHS Foundation Trust
+2.	Wellcome Trust Institutional Translational Partnership Award Access to Expertise 2021, Prediction Tools to personalise medicine in ANCA-associated vasculitis. Brix S. et al. £4,760. Role: Junior Statistician; University of Manchester
+
+## Evidence of Research Achievements
+
+- Since March 2021, I have been responsible for providing support to research-based studies where MFT collaborates, sponsors or provides participants.  During this period, I have been involved in multiple studies providing assistance from concept and study design, through to analysis and dissemination.  I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
+- I have been responsible for reviewing the design, statistical accuracy and overall viability of all trust sponsored research protocols prior to ethics submission in collaboration with senior statisticians
+- I have multiple collaborations with clinicians across the whole of MFT and The University of Manchester, including Renal, Critical Care, Gastroenterology, Cardiovascular, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, ENT.
+- During my 18 months at IQVIA, I worked on multiple studies with a global team as a CRO working for large pharmaceutical clients.
+  - I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.
+  - I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies. 
+  -  assisted in developing study analysis plans, including sample size calculations, and mock TFLs across multiple studies. 
+  - I programmed TFLs for use in CSRs across multiple studies. 
+  - I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.
+  - I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands)
+  
+---
+
+# Section C: Teaching and other student-related activities
+
+## Roles in assessment and feedback to students
+
+- I was responsible for aggregating results for the UKFPO OSCE Medical Exams and contributed to the development of the Pass/Fail criteria (academic years 20/21; 21/22; 22/23)
+- I currently provide support to undergraduate, MSc, MD and PhD students affiliated with MFT, critiquing their proposals and methods. 
+
+## Student support roles
+
+- I provide support in concept, design, analysis and dissemination for projects for students who are associated with MFT, predominately The University of Manchester students. These include 3rd / 4th year medical undergraduates, MSc, MD and PhD students.
+- I have provided statistical supervision for 3rd year medical students on APEP projects (AY 21/22)
+
+Evidence of teaching and student support achievements 
+- I have collaborated on publications with University of Manchester students: Peer references 3 & 4
+
+# Section E: Knowledge Transfer and External Engagement 
+
+- I was the statistical expert for Wythenshawe Respiratory Medicine Journal Club providing lay summaries of the statistical aspects of papers and critical appraisal of the methodology (AY 21/22)
+- I have taught on the Specialist Foundation Program (AY 21/22; 22/23) on critical appraisal and statistical methodology
+- I have taught in collaboration with the MFT library service critical appraisal for junior doctors and Level 7+ clinical practitioners.
+
+
+
+  @Batejrheum.230115
+  @RAGY20231605
+  @FI
+  @oremule2023mobile
+  @CSOM
+  @RN259
+  @RN246
+  @RN106
