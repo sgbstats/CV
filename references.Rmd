@@ -9,11 +9,12 @@ bibliography: bib.bib
 ---
 
 
-  @Batejrheum.230115
-  @RAGY20231605
+  @Batejrheum
+  @pla2r
   @FI
   @oremule2023mobile
   @CSOM
-  @RN259
-  @RN246
-  @RN106
+  @gbm
+  @cpap
+  @ETP
+
