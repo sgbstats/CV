@@ -8,6 +8,8 @@ bibliography: bib.bib
 header-includes:
     - \usepackage{sectsty}
     - \allsectionsfont{\color{black}}
+link-citations: yes
+linkcolor: white
 ---
 
 # Section A: Personal Information
@@ -45,10 +47,10 @@ header-includes:
 <div id="refs"></div>
   @Batejrheum
   @pla2r
+  @gbm
   @FI
   @oremule2023mobile
   @CSOM
-  @gbm
   @cpap
   @ETP
 
@@ -58,7 +60,7 @@ header-includes:
 3.	Bate S & Brix SR (2022). Modification of the Renal Risk Score in ANCA Associated Glomerulonephritis improves prediction further. [Poster]. Translation Manchester Conference, Manchester, UK. Winner of ‘People’s choice’ award.
 
 ## Grants Awarded
-1.	NIHR Health Technology Assessment 2023, ICS-RECODE: Predictors of treatment REsponse to inhaled corticosteroids (ICS) in COPD: randomised COntrolled trials individual participant Data re-Evaluation. NIHR152516, Mathioudakis, et al. £ 200,929.34. Role: Co-Applicant and lead statistician; Manchester University NHS Foundation Trust
+1.	NIHR Health Technology Assessment 2023, ICS-RECODE: Predictors of treatment REsponse to inhaled corticosteroids (ICS) in COPD: randomised COntrolled trials individual participant Data re-Evaluation. NIHR152516, Mathioudakis, et al. £206,143.34. Role: Co-Applicant and lead statistician; Manchester University NHS Foundation Trust
 2.	Wellcome Trust Institutional Translational Partnership Award Access to Expertise 2021, Prediction Tools to personalise medicine in ANCA-associated vasculitis. Brix S. et al. £4,760. Role: Junior Statistician; University of Manchester
 
 ## Evidence of Research Achievements
@@ -80,15 +82,15 @@ header-includes:
 
 ## Roles in assessment and feedback to students
 
-- I was responsible for aggregating results for the UKFPO OSCE Medical Exams and contributed to the development of the Pass/Fail criteria (academic years 20/21; 21/22; 22/23)
+- I was responsible for aggregating results for the UKFPO OSCE Medical Exams and contributed to the development of the Pass/Fail criteria (2022-24)
 - I currently provide support to undergraduate, MSc, MD and PhD students affiliated with MFT, critiquing their proposals and methods. 
 
 ## Student support roles
 
 - I provide support in concept, design, analysis and dissemination for projects for students who are associated with MFT, predominately The University of Manchester students. These include 3rd / 4th year medical undergraduates, MSc, MD and PhD students.
-- I have provided statistical supervision for 3rd year medical students on APEP projects (AY 21/22)
+- I have provided statistical supervision for 3rd year medical students on APEP projects (AY 2022-23)
 
-Evidence of teaching and student support achievements 
+## Evidence of teaching and student support achievements 
 
 - I have collaborated on publications with University of Manchester students @gbm@ETP
 
