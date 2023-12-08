@@ -55,9 +55,9 @@ linkcolor: white
   @ETP
 
 ## Other Publications
-1.	Bate S Stokes V, Goh KY, et al, (2023) External validation of prognostic models in critical care: a cautionary tale from covid-19 pneumonitis [Rapid fire talk; Poster; e-Poster]. NIHR Statistics Group Conference 2023, Sheffield, UK. Winner of best e-Poster.
-2.	Bate S & Brix SR (2022). Validating time-to-event clinical prediction models: a case study in ANCA-associated glomerulonephritis. [Presentation]. NHS R Community Conference 2022, Birmingham, UK.
-3.	Bate S & Brix SR (2022). Modification of the Renal Risk Score in ANCA Associated Glomerulonephritis improves prediction further. [Poster]. Translation Manchester Conference, Manchester, UK. Winner of ‘People’s choice’ award.
+1.	Bate S, Stokes V, Goh KY, et al. External validation of prognostic models in critical care: a cautionary tale from covid-19 pneumonitis. 2023. [Rapid fire talk; Poster; e-Poster]. NIHR Statistics Group Conference 2023, Sheffield, UK. **Winner of best e-Poster**.
+2.	Bate S & Brix SR. Validating time-to-event clinical prediction models: a case study in ANCA-associated glomerulonephritis. 2022. [Presentation]. NHS R Community Conference 2022, Birmingham, UK.
+3.	Bate S & Brix SR. Modification of the Renal Risk Score in ANCA Associated Glomerulonephritis improves prediction further. 2022. [Poster]. Translation Manchester Conference, Manchester, UK. **Winner of ‘People’s choice’ award**.
 
 ## Grants Awarded
 1.	NIHR Health Technology Assessment 2023, ICS-RECODE: Predictors of treatment REsponse to inhaled corticosteroids (ICS) in COPD: randomised COntrolled trials individual participant Data re-Evaluation. NIHR152516, Mathioudakis, et al. £206,143.34. Role: Co-Applicant and lead statistician; Manchester University NHS Foundation Trust
@@ -88,11 +88,13 @@ linkcolor: white
 ## Student support roles
 
 - I provide support in concept, design, analysis and dissemination for projects for students who are associated with MFT, predominately The University of Manchester students. These include 3rd / 4th year medical undergraduates, MSc, MD and PhD students.
-- I have provided statistical supervision for 3rd year medical students on APEP projects (AY 2022-23)
+- I have provided statistical supervision for 3rd year medical students on APEP projects (2022 & 23)
 
 ## Evidence of teaching and student support achievements 
 
-- I have collaborated on publications with University of Manchester students @gbm@ETP
+- I have collaborated on publications with University of Manchester students (3, 8)
+
+---
 
 # Section E: Knowledge Transfer and External Engagement 
 

@@ -3,18 +3,18 @@ title: "Curriculum Vitae"
 author: "Mr Sebastian Bate, MMath"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: word_document
-csl: jama.csl
+csl: csl/jama.csl
 bibliography: bib.bib
 
 ---
 
 
   @Batejrheum
+  @gbm
   @pla2r
   @FI
   @oremule2023mobile
   @CSOM
-  @gbm
   @cpap
   @ETP
 
