@@ -10,6 +10,7 @@ header-includes:
     - \allsectionsfont{\color{black}}
 link-citations: yes
 linkcolor: white
+
 ---
 
 # Section A: Personal Information
@@ -55,6 +56,7 @@ linkcolor: white
   @CSOM
   @cpap
   @ETP
+  
 
 ## Other Publications
 1.	Bate S, Stokes V, Goh KY, et al. External validation of prognostic models in critical care: a cautionary tale from covid-19 pneumonitis. 2023. [Rapid fire talk; Poster; e-Poster]. NIHR Statistics Group Conference 2023, Sheffield, UK. **Winner of best e-Poster**.
