@@ -13,7 +13,8 @@ output:
   vitae::awesomecv:
     page_total: true
 csl: csl/jama.csl
-    
+bibliography: bib.bib
+
 ---
 
 ```{r setup, include=FALSE}
@@ -51,10 +52,12 @@ tribble(
 
 # Peer Reviewed Publications
 
-# ```{r}
-# bibliography_entries("bib.bib") %>%
-#   arrange(desc(issued))
-# ```
+```{r}
+vitae::bibliography_entries("bib.bib") %>%
+  arrange(desc(issued))
+``` 
+
+
 
 # Languages & Certifications
 * R, inc. Tidyverse (Expert)

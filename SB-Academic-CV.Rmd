@@ -45,6 +45,7 @@ linkcolor: white
 ## Peer Reviewed Publications
 
 <div id="refs"></div>
+  @bate2024external
   @akris
   @Batejrheum
   @pla2r
