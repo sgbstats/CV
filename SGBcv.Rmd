@@ -13,7 +13,6 @@ output:
   vitae::awesomecv:
     page_total: true
 csl: csl/jama.csl
-bibliography: bib.bib
 
 ---
 
