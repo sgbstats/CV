@@ -43,6 +43,7 @@
 1. **Bate S**, Stokes V, Greenlee H, et al. (2024) External validation of prognostic models in critical care:
 A cautionary tale from COVID-19 pneumonitis. Critical Care Explorations. 2024;6(4):e1067.
 [10.1097/CCE.0000000000001067](https://doi.org/10.1097/CCE.0000000000001067)
+1. Sivabalah K, Crane D, Neville S, et al. Treating tobacco dependency in NHS workers in Greater Manchester: An evaluation of a bespoke digital service. JTO Clinical and Research Reports. Published online 2024:100674. [10.1016/j.jtocrr.2024.100674](https://doi.org/10.1016/j.jtocrr.2024.100674])
 2. **Bate S**, McGovern D, Costigliolo F, et al. (2024) The improved kidney risk score in ANCA-associated
 vasculitis for clinical practice and trials. Journal of the American Society of Nephrology. 10-1061. [10.1681/ASN.0000000000000274](https://doi.org/10.1681/ASN.0000000000000274)
 1. **Bate, S.** and Brix, S.R. (2023) From Prediction Tools to Precision Medicine in Antineutrophil Cytoplasmic Antibody–Associated Vasculitis. The Journal of Rheumatology **50**:583–5.. [10.3899/jrheum.230115](https://doi.org/10.3899/jrheum.230115)

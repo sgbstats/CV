@@ -47,6 +47,7 @@ linkcolor: white
 
 <div id="refs"></div>
   @bate2024external
+  @sivabalah
   @akris
   @Batejrheum
   @pla2r
@@ -96,7 +97,7 @@ linkcolor: white
 
 ## Evidence of teaching and student support achievements 
 
-- I have collaborated on publications with University of Manchester students (3, 8)
+- I have collaborated on publications with University of Manchester students.
 
 ---
 
