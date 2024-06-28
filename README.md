@@ -12,16 +12,15 @@
 
 *Junior Medical Statistician* (Mar 2021-) 
 
-* I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
-* I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
-* I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
-* I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)].
-* I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
-* I am the resident statistician for Respiratory Medicine Journal Club where I lead discussions critically appraising research and providing statistical context.
-* I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.
-* I have provided informal mentoring to a junior team member.
-* I have written teaching materials for improving statistical literacy among clinicians.
-* I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University
+- I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
+- I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
+- I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.
+- I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)].
+- I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.
+- I have been the resident statistician for Respiratory Medicine Journal Club where I led discussions critically appraising research and providing statistical context.", "I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.
+- I have provided informal mentoring to a junior team member.
+- I have written teaching materials for improving statistical literacy among clinicians.
+- I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University."
 
 **IQVIA**
 
@@ -43,6 +42,8 @@
 1. **Bate S**, Stokes V, Greenlee H, et al. (2024) External validation of prognostic models in critical care:
 A cautionary tale from COVID-19 pneumonitis. Critical Care Explorations. 2024;6(4):e1067.
 [10.1097/CCE.0000000000001067](https://doi.org/10.1097/CCE.0000000000001067)
+1. Bate S. (2024) Will the ANCA kidney risk score become the gold standard for prognostication in ANCA-associated
+GN? Kidney360. 2024;5(6):789-790. [doi:10.34067/KID.0000000000000455](https://doi.org/10.34067/KID.0000000000000455)
 1. Sivabalah K, Crane D, Neville S, et al. Treating tobacco dependency in NHS workers in Greater Manchester: An evaluation of a bespoke digital service. JTO Clinical and Research Reports. Published online 2024:100674. [10.1016/j.jtocrr.2024.100674](https://doi.org/10.1016/j.jtocrr.2024.100674])
 2. **Bate S**, McGovern D, Costigliolo F, et al. (2024) The improved kidney risk score in ANCA-associated
 vasculitis for clinical practice and trials. Journal of the American Society of Nephrology. 10-1061. [10.1681/ASN.0000000000000274](https://doi.org/10.1681/ASN.0000000000000274)
