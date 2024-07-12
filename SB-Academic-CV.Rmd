@@ -45,19 +45,8 @@ linkcolor: white
 
 ## Peer Reviewed Publications
 
-<div id="refs"></div>
-  @bate2024external
-  @batek360
-  @sivabalah
-  @akris
-  @Batejrheum
-  @pla2r
-  @gbm
-  @FI
-  @oremule2023mobile
-  @CSOM
-  @cpap
-  @ETP
+<div id="refs" bibliography entry-spacing = "0" link color="white"></div>
+
   
 
 ## Other Publications
@@ -111,3 +100,15 @@ linkcolor: white
 
 ---
 
+  @bate2024external
+  @batek360
+  @sivabalah
+  @akris
+  @Batejrheum
+  @pla2r
+  @gbm
+  @FI
+  @oremule2023mobile
+  @CSOM
+  @cpap
+  @ETP

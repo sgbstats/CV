@@ -8,30 +8,32 @@ email: "sebastiangbate@gmail.com"
 #twitter: sebastianbate
 github: sgbstats
 linkedin: sebastianbate
+orcid: "0000-0002-2218-503X"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
     page_total: true
 csl: csl/jama.csl
-
 ---
 
 ```{r setup, include=FALSE}
+
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 options(tinytex.verbose = TRUE)
-library(vitae)
+library(vitae) #check it is version 0.5.3 remotes::install_github("mitchelloharawild/vitae@v0.5.3")
 library(dplyr)
 library(tibble)
 ```
 
 # Experience
 
-```{r}
+```{r experience}
 tribble(
   ~Org, ~Role,~Time,  ~Responsibilities,
-  "Manchester University NHS Foundation Trust", "Junior Medical Statistician", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.","I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)].", "I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts, including studies in Renal, Critical Care, Gastroenterology, Cardiology, Cystic Fibrosis, Respiratory, Oncogeriatrics, Dermatology, Oncoplastic Surgery, Physiotherapy, Maternity, Trauma Care, and ENT.", "I have been the resident statistician for Respiratory Medicine Journal Club where I led discussions critically appraising research and providing statistical context.", "I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.", "I have provided informal mentoring to a junior team member.", "I have written teaching materials for improving statistical literacy among clinicians.", "I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University."),
+  "Manchester University NHS Foundation Trust", "Junior Medical Statistician", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.",
+"I have contributed to sucessful grant applications as a co-investigator and lead statistician (NIHR152516)","I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)], NIHR Statistics Group Conference, 2024 [3rd place]", "I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts.", "I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.", "I have written teaching materials for improving statistical literacy among clinicians.", "I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University."),
   
-  "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations and mock TFLs across multiple studies.", "I programmed TFLs for use in CSRs across multiple studies.", "I provided guidance and interpretation on statistical matters to medical writers and statistical programmers.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).")
+  "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations and mock TFLs across multiple studies.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).")
 ) %>% 
   detailed_entries(what=Role, where = Time, with = Org, why=Responsibilities)
 
@@ -48,29 +50,29 @@ tribble(
   detailed_entries(where=Year,what=Degree,  with=Institution)
 ```
 
-
 # Peer Reviewed Publications
 
 ```{r}
-vitae::bibliography_entries("bib.bib") %>%
+vitae::bibliography_entries("bib.bib") %>% 
+  # filter(id %in% c("bate2024external", "batek360", "akris", "gbm", "FI", "pla2r", "CSOM", "oremule2023mobile", "cpap", "etp")) %>%
   arrange(desc(issued))
-``` 
-
-
+```
 
 # Languages & Certifications
-* R, inc. Tidyverse (Expert)
-* SPSS (Proficient)
-* SAS (Was proficient, now rusty)
-* SQL (Moderate)
-* NIHR Good Clinical Practice
+
+-   R, inc. Tidyverse (Expert)
+-   SPSS (Proficient)
+-   SAS (Was proficient, now rusty)
+-   SQL (Moderate)
+-   NIHR Good Clinical Practice
 
 # Areas of interest
-* Prognostic modeling
-* Meta-analysis
+
+-   Prognostic modeling
+-   Meta-analysis
 
 # Personal
-* I have run a 3:03:45 marathon
-* I have an Erdos number of 6
-* This CV was written in RMarkdown using *{vitae}*
 
+-   I have run a 3:03:45 marathon
+-   I have an Erdos number of 6
+-   This CV was written in RMarkdown using *{vitae}*
