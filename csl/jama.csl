@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US" line-spacing="0" entry-spacing = "0">
   <info>
     <title>JAMA (The Journal of the American Medical Association)</title>
     <title-short>JAMA</title-short>

@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 author: "Mr Sebastian Bate, MMath"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: pdf_document
-csl: csl/jama.csl
+csl: csl/ama.csl
 bibliography: bib.bib
 header-includes:
     - \usepackage{sectsty}
@@ -45,7 +45,7 @@ linkcolor: white
 
 ## Peer Reviewed Publications
 
-<div id="refs" bibliography entry-spacing = "0" link color="white"></div>
+<div id="refs" link color="white"></div>
 
   
 

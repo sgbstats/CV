@@ -13,7 +13,7 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::awesomecv:
     page_total: true
-csl: csl/jama.csl
+csl: csl/ama.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -50,11 +50,11 @@ tribble(
   detailed_entries(where=Year,what=Degree,  with=Institution)
 ```
 
-# Peer Reviewed Publications
+# Selected Peer Reviewed Publications
 
 ```{r}
 vitae::bibliography_entries("bib.bib") %>% 
-  # filter(id %in% c("bate2024external", "batek360", "akris", "gbm", "FI", "pla2r", "CSOM", "oremule2023mobile", "cpap", "etp")) %>%
+  filter(id %in% c("bate2024external", "batek360", "akris", "gbm", "FI", "pla2r", "CSOM", "flame", "oremule2023mobile", "cpap", "etp")) %>%
   arrange(desc(issued))
 ```
 
@@ -64,7 +64,7 @@ vitae::bibliography_entries("bib.bib") %>%
 -   SPSS (Proficient)
 -   SAS (Was proficient, now rusty)
 -   SQL (Moderate)
--   NIHR Good Clinical Practice
+-   NIHR Good Clinical/Statistical Practice
 
 # Areas of interest
 
