@@ -54,7 +54,7 @@ tribble(
 
 ```{r}
 vitae::bibliography_entries("bib.bib") %>% 
-  filter(id %in% c("bate2024external", "batek360", "akris", "gbm", "FI", "pla2r", "CSOM", "flame", "oremule2023mobile", "cpap", "etp")) %>%
+  filter(id %in% c("bate2024external", "batek360", "akris", "gbm", "FI", "pla2r", "CSOM", "flame", "oremule2023mobile", "cpap", "etp", "bate_predictors_2025")) %>%
   arrange(desc(issued))
 ```
 

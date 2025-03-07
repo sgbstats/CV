@@ -100,6 +100,7 @@ linkcolor: white
 
 ---
 
+  @bate_predictors_2025
   @bate2024external
   @batek360
   @sivabalah
