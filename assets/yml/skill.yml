@@ -1,9 +1,10 @@
-lang:
-  title: Languages
-  description: German (Native), English (Fluent), French (Intermediate)
-programming:
-  title: Programming Languages
-  description: Python, C++, Fortran
 markup:
-  title: Markup Languages
-  description: Typst, Quarto, LaTeX
+  title: Personal
+  description: I have run a 3:03:45 marathon; I have an Erdos number of 6; This CV was written in Quarto
+programming:
+  title: Areas of interest
+  description: Prognostic modeling; Meta-analysis
+lang:
+  title: Languages and certifications
+  description: R, inc. Tidyverse (Expert); SPSS (Proficient); SAS (Was proficient, now rusty); NIHR Good Clinical/Statistical Practice; Python (Can debug something but don't like writing it); Quarto (Getting better)
+
