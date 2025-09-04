@@ -3,6 +3,7 @@ title: "Seb Bate's CV"
 author:
   firstname: Sebastian
   lastname: Bate
+  position: Medical Statistician
   contacts:
     - icon: fa envelope
       text: sebastiangbate@gmail.com

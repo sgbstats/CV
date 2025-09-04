@@ -1,16 +1,17 @@
 iqvia:
   title: Statistician
-  location: Sep 2019-Mar 2021 
+  date: 2019-2021
   description: IQVIA
   details:
     - I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.
     - I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.
     - I assisted in developing study analysis plans, including sample size calculations and mock TFLs across multiple studies.
     - I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).
-nhs:
+
+anhs:
   title: Junior Medical Statistician
   description: Manchester University NHS Foundation Trust
-  location: Mar 2021-
+  date: 2021-
   details:
     - I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.
     - I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.
