@@ -1,0 +1,9 @@
+---
+  title: "My CV"
+author: "Your Name"
+format:
+  typst:
+  template: kazuyanagimoto/quarto-awesomecv-typst
+bibliography: references.bib
+csl: https://www.zotero.org/styles/american-medical-association
+---

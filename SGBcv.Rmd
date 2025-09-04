@@ -31,7 +31,7 @@ library(tibble)
 tribble(
   ~Org, ~Role,~Time,  ~Responsibilities,
   "Manchester University NHS Foundation Trust", "Junior Medical Statistician", "Mar 2021-", list("I have been involved in multiple studies and lead on statistical design and analysis from concept through to dissemination.","I support all levels of researchers from undergraduate and postgraduate students, through to clinical academics and consultants.",
-"I have contributed to sucessful grant applications as a co-investigator and lead statistician (NIHR152516)","I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)], NIHR Statistics Group Conference, 2024 [3rd place]", "I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts.", "I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.", "I have written teaching materials for improving statistical literacy among clinicians.", "I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University."),
+"I have contributed to sucessful grant applications as a co-investigator and lead statistician (NIHR152516)","I have been responsible for reviewing the design, statistical accuracy and overall viability of Trust-sponsored research protocols prior to ethics submission in collaboration with senior statisticians.","I have presented my research at conferences both to technical and clinical audiences [NIHR Statistics Group Conference, 2023 (best e-poster); NHS R Community Conference, 2022; Translation Manchester, 2022 (People's Choice award)], NIHR Statistics Group Conference, 2024 [3rd place]", "I have multiple collaborations with clinicians across the whole of MFT, The University of Manchester, and other trusts.", "I have given multiple talks on statistics for critical appraisal across The Trust to the prestigious Specialist Foundation Program, junior doctors and level 7+ clinical practitioners.", "I have written teaching materials for improving statistical literacy among clinicians.", "I have given guest lectures to undergraduates and apprentices on data literacy at Manchester Metropolitan University (Digital Marketer Degree Apprenticeship, and UG Marketing, Business & Marketing and Advertising & Brand Communications courses)."),
   
   "IQVIA", "Statistician", "Sep 2019-Feb 2021", list("I worked with senior biostatistics staff on the evaluation, interpretation, and reporting of study results, including writing the analysis data reviewer’s guide for one study.","I quality controlled regulatory documents including CSRs, summaries of clinical efficacy and safety, prescribing information, and FDA briefing documents for large pivotal studies.","I assisted in developing study analysis plans, including sample size calculations and mock TFLs across multiple studies.","I gained experience in applying the principles in ICH E6 (GCP), E9 (Statistics), E9R1 (Estimands).")
 ) %>% 
@@ -63,8 +63,9 @@ vitae::bibliography_entries("bib.bib") %>%
 -   R, inc. Tidyverse (Expert)
 -   SPSS (Proficient)
 -   SAS (Was proficient, now rusty)
--   SQL (Moderate)
 -   NIHR Good Clinical/Statistical Practice
+-   Python (Can debug something but don't like writing it)
+-   Quarto
 
 # Areas of interest
 

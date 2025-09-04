@@ -1,0 +1,80 @@
+---
+title: "Albert Einstein's CV"
+author:
+  firstname: Albert
+  lastname: Einstein
+  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
+  position: "Research Physicist ・ Professor"
+  contacts:
+    - icon: fa envelope
+      text: ae@example.com
+      url: "mailto:ae@example.com"
+    - icon: assets/icon/bi-house-fill.svg
+      text: example.com
+      url: https://example.com
+    - icon: fa brands orcid
+      text: 0000-0000-0000-0000
+      url: https://orcid.org/0000-0000-0000-0000
+    - icon: fa brands github
+      text: GitHub
+      url: https://github.com/example
+    - icon: fa brands linkedin
+      text: LinkedIn
+      url: https://linkedin.com/in/example
+    - icon: fa brands x-twitter
+      text: twitter
+      url: https://twitter.com/example
+format:
+  typst:
+    template: kazuyanagimoto/quarto-awesomecv-typst
+bibliography: bib.bib
+csl: https://www.zotero.org/styles/american-medical-association
+brand:
+  typography: 
+    fonts:
+      - family: Roboto
+        source: google
+        weight: [100, 400, 700]
+      - family: Source Sans 3
+        source: google
+        weight: [100, 400, 700]
+        style: [normal, italic]
+    base: Source Sans 3
+  color:
+    primary: "#dc3522"
+    link: "#771822"
+  defaults: 
+    awesomecv-typst:
+      font-header: Roboto
+---
+
+
+::: {#refs}
+:::
+
+```{=markdown}
+\nocite{bate2024external, batek360, akris, gbm, FI, pla2r, CSOM, flame, oremule2023mobile, cpap, etp, bate_predictors_2025}
+```
+
+
+
+## Education
+
+{{< yaml assets/yml/education.yml >}}
+
+
+## Work Experience
+
+{{< yaml assets/yml/work.yml >}}
+
+## Awards
+
+{{< yaml assets/yml/award.yml >}}
+
+## Skills
+
+{{< yaml assets/yml/skill.yml >}}
+
+
+# Bibliography
+
