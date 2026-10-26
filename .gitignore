@@ -48,3 +48,9 @@ vignettes/*.pdf
 *$*
 
 *.tmp
+
+*.quarto
+
+*.js
+*.css
+*.woff
