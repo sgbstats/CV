@@ -2,9 +2,15 @@ markup:
   title: Personal
   description: I have run a 3:03:45 marathon; I have an Erdos number of 6; This CV was written in Quarto
 programming:
-  title: Areas of interest
+  title: Statistical areas of interest
   description: Prognostic modeling; Meta-analysis
 lang:
-  title: Languages and certifications
-  description: R, inc. Tidyverse (Expert); SPSS (Proficient); SAS (Was proficient, now rusty); NIHR Good Clinical/Statistical Practice; Python (Can debug something but don't like writing it); Quarto (Getting better)
+  title: Languages
+  description: R, inc. Tidyverse (Expert); SPSS (Proficient); Python (Can debug something but don't like writing it); Quarto (Getting better); Python and SAS (can get by with the help of AI)
+development:
+  title: Leadership development
+  description: Member of the Tech Services Management Group; most modules of the Manager Fundamentals training completed
+certifications:
+  title: Certifications
+  description: NIHR Good Clinical & Statistical Practice; Office for National Statistics Safe Researcher status
 

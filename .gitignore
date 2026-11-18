@@ -54,3 +54,6 @@ vignettes/*.pdf
 *.js
 *.css
 *.woff
+
+# Job application materials are maintained in the private jobs repository.
+/jobs/
