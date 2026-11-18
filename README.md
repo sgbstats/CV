@@ -13,8 +13,33 @@
   EUR 3m.
 - I have written R packages to support the analysis of data from
   multiple and unusual sources.
-- I have contributed to IT procurement (including AI and source code
-  management).
+- I worked with IT colleagues to develop the business case for GitHub
+  Enterprise and expand GitHub Copilot access. I am a leader in the use
+  of AI coding tools at MMU.
+- I delivered an R package
+  [`facereaderconverter`](https://github.com/mmu-research-cloud-platform/facereaderconverter)
+  with end-to-end tests in around two months, supporting the [Library of
+  Happy
+  Moments](https://github.com/mmu-research-cloud-platform/library-of-happy-moments)
+  web app. This work contributes to research associated with a EUR 3m
+  ERC grant and a potential UKRI innovation-funding resubmission.
+- I developed an R Shiny app [Library of Happy
+  Moments](https://github.com/mmu-research-cloud-platform/library-of-happy-moments)
+  to show parents positive interactions with their children, integrating
+  FFmpeg and FFprobe.
+- I created
+  [research-video-sync](https://github.com/sgbstats/research-video-sync),
+  a PyPI package for reproducible bulk video synchronisation, and am
+  preparing the
+  [`facereaderconverter`](https://github.com/mmu-research-cloud-platform/facereaderconverter)
+  R package for a CRAN submission.
+- I use AI-assisted development and agentic review tools alongside
+  end-to-end tests. CI uses synthetic data; real research data is kept
+  outside CI and agent workflows using environment-configured paths.
+  Access is managed with IT&D colleagues, and research protocols check
+  pseudonymisation.
+- I lead workshops with global partner universities and have developed
+  new metrics for the computational analysis of microtime psychology.
 - I was 3rd at the 2026 MMU Festival of Research in the Research Support
   Category.
 
@@ -60,11 +85,6 @@ Trust** (2021-2026)
 - I gained experience in applying the principles in ICH E6 (GCP), E9
   (Statistics), E9R1 (Estimands).
 
-<!-- -->
-
-    Warning in readLines(file, warn = readLines.warn): incomplete final line found
-    on 'assets/yml/education.yml'
-
 ### Education
 
 **MMath Mathematics and Statistics, 1st Class, University of
@@ -75,9 +95,14 @@ Manchester** (2019)
 **Personal, I have run a 3:03:45 marathon; I have an Erdos number of 6;
 This CV was written in Quarto**
 
-**Areas of interest, Prognostic modeling; Meta-analysis**
+**Statistical areas of interest, Prognostic modeling; Meta-analysis**
 
-**Languages and certifications, R, inc. Tidyverse (Expert); SPSS
-(Proficient); SAS (Was proficient, now rusty); NIHR Good
-Clinical/Statistical Practice; Python (Can debug something but don’t
-like writing it); Quarto (Getting better)**
+**Languages, R, inc. Tidyverse (Expert); SPSS (Proficient); Python (Can
+debug something but don’t like writing it); Quarto (Getting better);
+Python and SAS (can get by with the help of AI)**
+
+**Leadership development, Member of the Tech Services Management Group;
+most modules of the Manager Fundamentals training completed**
+
+**Certifications, NIHR Good Clinical & Statistical Practice; Office for
+National Statistics Safe Researcher status**

@@ -7,7 +7,13 @@ format: gfm
 #| echo: false
 #| results: asis
 render_yml <- function(path, heading) {
-  items <- yaml::read_yaml(path)
+  content <- readLines(path, warn = FALSE, encoding = "UTF-8")
+  content <- gsub(
+    '#link\\("([^"]+)"\\)\\[([^]]+)\\]',
+    '[\\2](\\1)',
+    content
+  )
+  items <- yaml::yaml.load(paste(content, collapse = "\n"))
   cat("\n### ", heading, "\n\n", sep = "")
   for (item in items) {
     head <- paste(
