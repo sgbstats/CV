@@ -7,7 +7,12 @@ a:
     - I am responsible for the statistics across the Centre's research projects, including the design, analysis and reporting of results (including Psychology, Economics and Sports Science).
     - I am the named statistician on multiple grant applications worth up to EUR 3m.
     - I have written R packages to support the analysis of data from multiple and unusual sources.
-    - I have contributed to IT procurement (including AI and source code management).
+    - I worked with IT colleagues to develop the business case for GitHub Enterprise and expand GitHub Copilot access. I am a leader in the use of AI coding tools at MMU.
+    - I delivered an R package #link("https://github.com/mmu-research-cloud-platform/facereaderconverter")[`facereaderconverter`] with end-to-end tests in around two months, supporting the #link("https://github.com/mmu-research-cloud-platform/library-of-happy-moments")[Library of Happy Moments] web app. This work contributes to research associated with a EUR 3m ERC grant and a potential UKRI innovation-funding resubmission.
+    - I developed an R Shiny app #link("https://github.com/mmu-research-cloud-platform/library-of-happy-moments")[Library of Happy Moments] to show parents positive interactions with their children, integrating FFmpeg and FFprobe.
+    - I created #link("https://github.com/sgbstats/research-video-sync")[research-video-sync], a PyPI package for reproducible bulk video synchronisation, and am preparing the #link("https://github.com/mmu-research-cloud-platform/facereaderconverter")[`facereaderconverter`] R package for a CRAN submission.
+    - I use AI-assisted development and agentic review tools alongside end-to-end tests. CI uses synthetic data; real research data is kept outside CI and agent workflows using environment-configured paths. Access is managed with IT&D colleagues, and research protocols check pseudonymisation.
+    - I lead workshops with global partner universities and have developed new metrics for the computational analysis of microtime psychology.
     - I was 3rd at the 2026 MMU Festival of Research in the Research Support Category.
 
 b:

@@ -1,15 +1,32 @@
 ---
 title: "Curriculum Vitae"
 author: "Mr Sebastian Bate, MMath"
-date: "`r format(Sys.time(), '%B %Y')`"
-output: pdf_document
+date: today
+date-format: "MMMM YYYY"
+format:
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage{sectsty}
+        \allsectionsfont{\color{black}}
 csl: csl/ama.csl
 bibliography: bib.bib
-header-includes:
-    - \usepackage{sectsty}
-    - \allsectionsfont{\color{black}}
-link-citations: yes
+link-citations: true
 linkcolor: white
+nocite: |
+  @bate_predictors_2025,
+  @bate2024external,
+  @batek360,
+  @sivabalah,
+  @akris,
+  @Batejrheum,
+  @pla2r,
+  @gbm,
+  @FI,
+  @oremule2023mobile,
+  @CSOM,
+  @cpap,
+  @ETP
 
 ---
 
@@ -45,7 +62,8 @@ linkcolor: white
 
 ## Peer Reviewed Publications
 
-<div id="refs" link color="white"></div>
+::: {#refs}
+:::
 
   
 
@@ -99,17 +117,3 @@ linkcolor: white
 - I have guest lectured at Manchester Metropolitan University on data visualisation and best practice for final year Marketing students and Digital Marketing Degree Apprentices
 
 ---
-
-  @bate_predictors_2025
-  @bate2024external
-  @batek360
-  @sivabalah
-  @akris
-  @Batejrheum
-  @pla2r
-  @gbm
-  @FI
-  @oremule2023mobile
-  @CSOM
-  @cpap
-  @ETP
